@@ -1,0 +1,13 @@
+name: Analysis_Processing_Rhotic_Alveolar
+title: Analysis_Processing_Rhotic_Alveolar
+username:
+account: sudoranais
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 249586
+bundleId: 1352321
+url: https://sudoranais.shinyapps.io/Analysis_Processing_Rhotic_Alveolar/
+when: 1525293284.02439
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: build_shiny_widget_textgrid.R|include.html|lack.txt|maindocument.html|praat_me.html
